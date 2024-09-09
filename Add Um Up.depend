@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689945310 source:c:\users\dell\desktop\programmation\program code block\jeux\add um up\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+	<stdbool.h>
+
